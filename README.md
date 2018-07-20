@@ -5,7 +5,7 @@ The course data available on datacamp cannot be opened with NetworkX ver. 2.x, s
 
 Original course data is also stored in folder datacamp_part1/.
 
-# Export graph to dataframe and import from dataframe
+## Export graph to dataframe and import from dataframe
 Save graph data to to Pandas dataframe edgelist and nodelists with function in 'Networks_pytohn-datasets-19_7_18.ipynb':
 
 `G_node_list_pd, G_edge_list_pd = graph_to_frames(G)`
